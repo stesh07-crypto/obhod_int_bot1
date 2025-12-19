@@ -7,5 +7,4 @@ vless://020ba372-8c03-575c-9a7f-4eee0908b7a3@5.129.249.134:443?security=reality&
 
 vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@31.207.77.202:443?security=reality&encryption=none&pbk=9F_vT5oJmi-EEUkrQ4ykDrFFJLqPJ2zw3w-VHjnyY20&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=14ee0c59550e3fb9#%F0%9F%87%B7%F0%9F%87%BA+Beget+%E2%80%94+%2344
 
-vless://26052074-f2a5-4335-b602-fe34633c71b1@185.145.245.204:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=lva.tunnelguard.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=lva.tunnelguard.ru#%F0%9F%87%B1%F0%9F%87%BB+Latvia+%E2%80%94+%2373
-
+vless://b231b160-e095-4f3a-83c2-4534b01768c0@128.75.228.190:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&allowinsecure=1&type=xhttp&sni=ok.ufavpn.ru#%F0%9F%87%B7%F0%9F%87%BA+RU+CIDR+TIMEWEB+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA
