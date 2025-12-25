@@ -1,5 +1,5 @@
 vless://b231b160-e095-4f3a-83c2-4534b01768c0@128.75.228.190:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=ok.ufavpn.ru#🇷🇺 🐝 Билайн|MegaFon 
-
+vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=test-35.ru#test-35-xhttp
 vless://3ffb4328-756c-417c-a150-d121c87e0e03@95-wl.connect-iskra.ru:8443?security=reality&encryption=none&pbk=YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a4fae7ee08c43ade#📱_Антиблок_67_|_Fast
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@ru36.tcpdoor.net:443?security=reality&encryption=none&pbk=jlnKFP7eXy5fFjmH1HD8_3A-AKbraZvJMwPE03BRuhQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=download.cdn.yandex.net&sid=776e7d90#📱_Антиблок_19
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@ru33.abvpn.net:443?security=reality&encryption=none&pbk=s0qb5ggFZN3X7QXWtgK4o7UgfS9DlpFC6JT6OWVs6X4&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.vk.com&sid=a5d90165#📱_Антиблок_129_|_Social
