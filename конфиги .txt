@@ -13,7 +13,8 @@ vless://f2309653-bfe7-43ff-83fc-784b06210bfa@51.250.65.209:443?security=reality&
 vless://66682125-9866-4554-8ef0-cbaf0e7edb9c@51.250.6.207:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA+FDCservers.net+%E2%80%94+%2397
 vless://66682125-9866-4554-8ef0-cbaf0e7edb9c@5.188.142.226:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA+VK+%E2%80%94+%2315
 vless://66682125-9866-4554-8ef0-cbaf0e7edb9c@5.188.142.226:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA+VK+%E2%80%94+%2315
-
+vless://11b4adde-287a-4d2f-b9a6-d740f183f063@obhod.aliusvpn.ru:2054?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%F0%9F%93%B1+%D0%A0%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC+%40lowik_live
+vless://star_test1@77.238.225.248:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=7JkpzRPbu2zJcPNrwVsE72C_OIduEDy_e2G4Uh0g4ms&fp=ios&spx=%2F&type=xhttp&sni=vk.com&sid=21c75f62#006%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20VK%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 
 
 
