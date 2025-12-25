@@ -1,1 +1,2 @@
 vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http%2F1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=test-35.ru#%F0%9F%87%B7%F0%9F%87%BA%2001%20VIP%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4
+vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=test-35.ru#test-35-xhttp
