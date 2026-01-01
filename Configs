@@ -94,3 +94,8 @@ vless://f23fe6f1-cb2d-07d0-a39b-99893d9260d1@95.163.250.213:52006?security=reali
 vless://f23fe6f1-cb2d-07d0-a39b-99893d9260d1@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B7%F0%9F%87%BA+%E2%9A%A1+%F0%9F%93%9E+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4-3+%5B%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%5D
 
 vless://f23fe6f1-cb2d-07d0-a39b-99893d9260d1@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B7%F0%9F%87%BA+%E2%9A%A1+%F0%9F%93%9E+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4-3+%5B%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%5D
+
+
+vless://f23fe6f1-cb2d-0bb8-a39b-99893d9260d1@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%AB%F0%9F%87%AE+%E2%9A%A1+%F0%9F%93%9E+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4-3+%5B%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%5D
+
+vless://f23fe6f1-cb2d-07d0-a39b-99893d9260d1@130.193.43.101:8442?mode=packet-up&path=%2Fapi%2F&security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&fp=qq&allowinsecure=0&type=xhttp&sni=o-gate.perekrestok.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA+++%F0%9F%90%8C+%F0%9F%93%9E
