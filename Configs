@@ -33,6 +33,10 @@ vless://846c5d45-936c-42f6-9120-2d13830d5fa0@vkll.takovpn.ru:443?security=realit
 
 
 vless://b95a44a7-c684-407b-b57e-e1681d69de90@ll1.takovpn.ru:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4
+
+
+
+
 vless://b95a44a7-c684-407b-b57e-e1681d69de90@megaf.takovpn.ru:443?security=reality&encryption=none&pbk=SxkcgZSO_Ek3EjJqudyx3UTwQIIUgB1fJyiDGmDI7mw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=99dfc27e5f2415dc
 
 
