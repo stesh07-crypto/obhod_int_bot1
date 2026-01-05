@@ -1,4 +1,4 @@
-vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http%2F1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=test-35.ru#Russia test-35-xhttp
+vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http%2F1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=test-35.ru#Russia test-35-xhttp 
 
 🇳🇱 NL-Yandex | 403ms
 vless://b95a44a7-c684-407b-b57e-e1681d69de90@84.201.139.151:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4
