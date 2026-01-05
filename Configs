@@ -143,3 +143,46 @@ vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@51.250.104.85:1488?security=reality
 vless://d2d79fd8-a3d4-4792-9766-e472e1fe8a5f@51.250.28.39:4248?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA+%D0%91%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8+%28VK%29+4+%7C+LiVPN
 
 vless://dd618f98-8af3-413b-b4d7-f77afa40365d@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=cdnsix.vk-com.ru&fp=randomized&allowinsecure=0&type=xhttp&sni=cdnsix.vk-com.ru#%F0%9F%87%B7%F0%9F%87%BA+%D0%A1%D0%9F%D0%91+%D0%A0%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC+%40GoodbyeWL
+
+
+🌐 Нидерланды | Yandex
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@84.201.139.151:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4#🇳🇱 NL-Yandex
+
+🇷🇺 Россия | Yandex
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@ll1.takovpn.ru:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4#🇷🇺 RU-Yandex
+
+🇪🇸 Испания | TradingView
+vless://b3250f76-ca6f-453e-b2d6-39de95d3fc4b@158.160.199.84:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=48fccabc158a4c22#🇪🇸 ES-TradingView
+
+🇳🇱 Нидерланды | Yandex-2
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@51.250.89.217:9090?mode=auto&path=%2F&security=reality&encryption=none&pbk=kBLlUpt36Xk_CJrdB1jlYvS_OcKs4DSzHuq9McBWpQQ&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=24ed410022aa2001#🇳🇱 NL-Yandex
+
+🇹🇷 Турция | TradingView
+vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@158.160.198.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=c6ef72e4635d15a5#🇹🇷 TR-TradingView
+
+🇷🇺 Россия | Yandex-Volga
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@yand51.volgaboost.ru:443?security=reality&encryption=none&pbk=mLApF78WJzjM4mijtlx4NPIbSA9Hizk66AVeck51wxY&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=fe2f8495c476efd4#🇷🇺 RU-Yandex-Volga
+
+🇷🇺 Россия | VK-1
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@ll1.takovpn.ru:1443?security=reality&encryption=none&pbk=Cr5wj7rAiTAjxuRTjgbsyxHeKzCVbs1VZB3V1_PGeS0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8e2a2f4c217f519f#🇷🇺 RU-VK
+
+🇷🇺 Россия | VK-2
+vless://846c5d45-936c-42f6-9120-2d13830d5fa0@vkll.takovpn.ru:443?security=reality&encryption=none&pbk=t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=eh.vk.com&sid=4d4421a0bac569#🇷🇺 RU-VK2
+
+🇷🇺 Россия | Yandex-3
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@ll1.takovpn.ru:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4#🇷🇺 RU-Yandex2
+
+🇷🇺 Россия | Yandex-4
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@megaf.takovpn.ru:443?security=reality&encryption=none&pbk=SxkcgZSO_Ek3EjJqudyx3UTwQIIUgB1fJyiDGmDI7mw&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=99dfc27e5f2415dc#🇷🇺 RU-Yandex3
+
+🇷🇺 Россия | VK-3
+vless://b95a44a7-c684-407b-b57e-e1681d69de90@ll1.takovpn.ru:1443?security=reality&encryption=none&pbk=Cr5wj7rAiTAjxuRTjgbsyxHeKzCVbs1VZB3V1_PGeS0&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8e2a2f4c217f519f#🇷🇺 RU-VK3
+
+🇩🇪 Германия | Yandex
+vless://8619e4c1-0984-4dce-83e3-419e2d7f5079@51.250.8.129:4241?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=111111#🇩🇪 DE-Yandex
+
+🇫🇷 Франция | WebSocket
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ws.fjdjdjfjd.icu&fp=chrome&allowinsecure=0&type=xhttp&sni=ws.fjdjdjfjd.icu#🇫🇷 FR-WebSocket
+
+🇪🇪 Эстония | WebSocket
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ws.fjdjdjfjd.icu&allowinsecure=0&type=xhttp&sni=ws.fjdjdjfjd.icu#🇪🇪 EE-WebSocket
