@@ -4,11 +4,4 @@ vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F
 
 vless://b95a44a7-c684-407b-b57e-e1681d69de90@84.201.139.151:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4
 
-vless://b95a44a7-c684-407b-b57e-e1681d69de90@ll1.takovpn.ru:443?security=reality&encryption=none&pbk=5t7fY--rTZaEDvoEI_3A0uPlBQmFaZe8frAarvzdazM&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=79a5e503d227e5c4
-
-vless://b3250f76-ca6f-453e-b2d6-39de95d3fc4b@158.160.199.84:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=48fccabc158a4c22
-
-vless://b95a44a7-c684-407b-b57e-e1681d69de90@51.250.89.217:9090?mode=auto&path=%2F&security=reality&encryption=none&pbk=kBLlUpt36Xk_CJrdB1jlYvS_OcKs4DSzHuq9McBWpQQ&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=24ed410022aa2001
-
-vless://1b6c4b21-8f28-43ba-9b33-37991d9d3572@158.160.198.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=c6ef72e4635d15a5
 
