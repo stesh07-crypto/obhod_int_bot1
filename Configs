@@ -34,8 +34,6 @@ vless://35274d58-fc5d-4ddf-81c2-65c2673dd0f9@ru01-blh01.tcp-reset-club.net:443?s
 
 vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#Russia%20P2P
 
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&allowinsecure=1&type=tcp&sni=www.vk.com#Iceland%20Trojan
-
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv25.outlinekeys.com:8443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30.0%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%2C%22scStreamUpServerSecs%22%3A%2230-90%22%7D&pbk=FxIBDSWCNvavM2KWj1Nwiab03uo0xG4r9NME9FmCJCo&spx=%2F&allowinsecure=0&type=xhttp&sni=01.img.avito.st#Poland%20xHTTP
 
 vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@pol01-ss01.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=48720c#Poland%20Fast%20noP2P
