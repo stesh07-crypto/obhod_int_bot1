@@ -39,7 +39,7 @@ vless://177f207d-43b4-4f35-a80c-e68562e64634@pl.anonch.org:443?security=reality&
 
 
 STIep:
-vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?security=reality&encryption=none&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd88bd27db4cc661#0172+%7C+%F0%9F%8F%B3%EF%B8%8F+VK+%7C+%F0%9F%87%B7%F0%9F%87%BA+Russia+%7C+VLESS+%7C+TG%3A+%40
+vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?security=reality&encryption=none&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd88bd27db4cc661#VK
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&allowinsecure=1&type=ws&sni=sni.111000.dynv6.net#%F0%9F%87%BA%F0%9F%87%B8+USA+%28%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%29
 
