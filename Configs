@@ -82,3 +82,6 @@ vless://a0f8bf0f-4cf0-4848-aa0c-032a1a47012e@51.250.7.79:8443?security=reality&e
 
 STIep, [12.01.2026 21:08]
 vless://3ef34008-6ede-4356-b1d1-a9e9ab6ec279@51.250.24.98:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B5%F0%9F%87%B1+Poland+%E2%80%94+%23326
+
+
+vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=cdnsix.vk-com.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=cdnsix.vk-com.ru#🇷🇺 RU cdnsix
