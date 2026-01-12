@@ -85,3 +85,6 @@ vless://3ef34008-6ede-4356-b1d1-a9e9ab6ec279@51.250.24.98:1488?security=reality&
 
 
 vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@188.72.103.3:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=cdnsix.vk-com.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=cdnsix.vk-com.ru#🇷🇺 RU cdnsix
+
+
+vless://177f207d-43b4-4f35-a80c-e68562e64634@usa.anonch.org:443?security=reality&encryption=none&pbk=GoJof0n4lqanPFH0nhON2p4bvq-rA-dcamNSIHCEV1w&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=usa.anonch.org&sid=aa94999ff325c007#%F0%9F%87%BA%F0%9F%87%B8+United+States
