@@ -88,3 +88,7 @@ vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@188.72.103.3:443?mode=auto&path=%2F
 
 
 vless://177f207d-43b4-4f35-a80c-e68562e64634@usa.anonch.org:443?security=reality&encryption=none&pbk=GoJof0n4lqanPFH0nhON2p4bvq-rA-dcamNSIHCEV1w&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=usa.anonch.org&sid=aa94999ff325c007#%F0%9F%87%BA%F0%9F%87%B8+United+States
+
+
+
+vless://1839b1fa-ce30-4f30-a646-90a1b5dd3c90@188.255.199.192:443?type=xhttp&encryption=none&path=%2Fapi%2Fv2%2Fupdates&host=01.img.avito.st&mode=auto&security=reality&pbk=tudfGv0tcsjCcMqi8fZoqHNAma-gjQj2XF8jsDmWpTk&fp=chrome&sni=01.img.avito.st&sid=deadbeef&spx=%2F#Fixed-xHTTP-Avito
