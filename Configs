@@ -68,7 +68,6 @@ vless://4ce2f35e-95f4-4725-ae10-2f8f16130001@sg01-vlr01.tcp-reset-club.net:443?s
 
 
 STIep:
-vless://cd061255-ba48-4a3e-8ae9-d672e33d1f32@95.vc-isk.com:443?mode=stream-up&path=%2Fxhttp&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A%224-7%22%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=2GdafD3wts2y_dAUaN_7sE9m7alduy3_2Cb5bQ0uhjU&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=3390561d7b345c60#%F0%9F%93%B1+%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%BB%D0%BE%D0%BA+158
 
 vless://f13a22fa-b2fc-4369-b5cd-ed2ed08fb11f@185.40.153.237:9443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=dk1.digitalvpn.org&allowinsecure=0&type=xhttp&sni=dk1.digitalvpn.org#%F0%9F%87%BA%F0%9F%87%B8+United+States+%E2%80%94+6
 
@@ -101,10 +100,8 @@ vless://62770d79-dc4d-40b1-b01c-ea30399725aa@185.40.153.254:443?security=reality
 
 vless://62770d79-dc4d-07d0-b01c-ea30399725aa@95.163.250.213:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#32.+VLESS+%7C
 
-vless://cd061255-ba48-4a3e-8ae9-d672e33d1f32@95.vc-isk.com:443?mode=stream-up&path=%2Fxhttp&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A%224-7%22%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=2GdafD3wts2y_dAUaN_7sE9m7alduy3_2Cb5bQ0uhjU&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=3390561d7b345c60#53.+VLESS+%7C
 
 
-vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@51.250.123.48:7443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#115.+VLESS+%7C
 
 STIep:
 vless://4371ad14-b981-4699-bedf-83fb79bde3e6@51.250.87.167:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=2476f063981ffd92#%F0%9F%87%B7%F0%9F%87%BA+RU-7227
@@ -113,7 +110,6 @@ vless://62770d79-dc4d-40b1-b01c-ea30399725aa@185.40.153.254:443?security=reality
 
 
 STIep:
-vless://cd061255-ba48-4a3e-8ae9-d672e33d1f32@95.vc-isk.com:443?mode=stream-up&path=%2Fxhttp&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0.0%2C%22maxConcurrency%22%3A%224-7%22%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=2GdafD3wts2y_dAUaN_7sE9m7alduy3_2Cb5bQ0uhjU&fp=qq&spx=%2F&allowinsecure=0&type=xhttp&sni=eh.vk.com&sid=3390561d7b345c60#%F0%9F%93%B1+%D0%90%D0%BD%D1%82%D0%B8%D0%B1%D0%BB%D0%BE%D0%BA+158
 
 
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@ru-yc51.appav.online:59152?security=reality&encryption=none&pbk=y8f0sznQFqvSOPFcFvPcQFfXbz0Ag10ySB4A88OXMy0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=api-maps.yandex.ru&sid=effab4f3a0ed698e#5611+%7C+%F0%9F%8C%90+%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5+%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
