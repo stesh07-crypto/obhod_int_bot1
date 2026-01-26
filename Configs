@@ -49,9 +49,7 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@190.93.247.168:2096?path=%2F%3Fed%3
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.26.10.85:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#%F0%9F%87%BA%F0%9F%87%B8+VPN+22
 
-vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@66.90.90.130:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%E2%84%969+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
-vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@66.90.90.130:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%E2%84%969+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
 vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@155.212.164.103:443?security=reality&encryption=none&pbk=VtTa1_wXkB9yxDN5p-DIXq-jC5bcnQM_62fYfFLuX04&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=7f9eb0824a7dbef7#%F0%9F%87%A9%F0%9F%87%AA+2+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
@@ -228,7 +226,6 @@ vless://62770d79-dc4d-40b1-b01c-ea30399725aa@185.40.153.254:443?security=reality
 
 
 vless://62770d79-dc4d-40b1-b01c-ea30399725aa@185.40.153.254:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA+RU-7257
-
 
 
 
