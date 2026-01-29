@@ -80,8 +80,8 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.26.10.85:2053?path=%2F%3Fed%3D2
 
 vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@51.250.92.246:7443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#%F0%9F%87%AA%F0%9F%87%AA+2+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
+vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@178.154.255.96:8090?mode=auto&path=%2F&security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&fp=qq&allowinsecure=0&type=xhttp&sni=sso.passport.yandex.ru&sid=6b2f4e6ac9b1d2f0#%F0%9F%87%B5%F0%9F%87%B1+1+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
-vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@51.250.91.154:8443?mode=gun&security=reality&encryption=none&authority=&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&fp=qq&allowinsecure=0&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=6b2f4e6ac9b1d2f0#%F0%9F%87%B7%F0%9F%87%BA+2+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
 vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@185.40.152.115:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a20d3ed244c76426#%F0%9F%87%B3%F0%9F%87%B1+5++LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
