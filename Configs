@@ -91,6 +91,7 @@ vless://0b595aa7-144c-4b09-9d82-c77fc351e750@ru21.vpn-nn.ru:443?security=reality
 
 vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@217.16.25.129:7443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=a20d3ed244c76426#%F0%9F%87%AD%F0%9F%87%BA4+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
+vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@178.250.243.235:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#%F0%9F%87%B8%F0%9F%87%AA+5+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
 vless://64f8e2bb-87f8-4fbf-88cb-c8d45f58903d@109.120.188.144:8443?security=reality&encryption=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a20d3ed244c76426#%F0%9F%87%AF%F0%9F%87%B5+7+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%91%D0%A1
 
@@ -105,7 +106,6 @@ vless://4ce2f35e-95f4-4725-ae10-2f8f16130001@ru01-blh01.tcp-reset-club.net:443?s
 
 vless://4ce2f35e-95f4-4725-ae10-2f8f16130001@nl01-ss01.tcp-reset-club.net:443?mode=packet-up&path=%2Fapi%2Fv1%2Fupdate&security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=stats.vk-portal.net&sid=8453e5fd9af927#%F0%9F%87%B3%F0%9F%87%B1++Netherl
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQms5VUI1TFhSVFc2X1BCVmhDbUduRTlnSzQ3LTdqUg==@pol01-ss01.tcp-reset-club.net:8444#%F0%9F%87%B5%F0%9F%87%B1+Poland+33
 
 vless://32dc8251-f615-4817-8de6-715e641cdb6a@103.113.68.144:443?security=reality&encryption=none&pbk=Tk0Nz_w4u3oTP2EECmN1I62USd8ODnIaBpwOwUdjXBc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gb7.strelkavpn.ru&sid=5b4f5026c803#%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%F0%9F%87%AC%F0%9F%87%A7VPN
 
