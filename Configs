@@ -189,7 +189,6 @@ vless://90d193e6-4a18-409f-9828-b2b35352e032@178.72.145.62:443?security=reality&
 
 
 
-vless://3d0b6533-d3ba-4a0d-a46e-27c258ca5c3e@66.90.90.162:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%80%94+17
 
 
 
@@ -223,7 +222,6 @@ vless://177f207d-43b4-4f35-a80c-e68562e64634@au.anonch.org:443?security=reality&
 vless://177f207d-43b4-4f35-a80c-e68562e64634@usa.anonch.org:443?security=reality&encryption=none&pbk=GoJof0n4lqanPFH0nhON2p4bvq-rA-dcamNSIHCEV1w&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=usa.anonch.org&sid=aa94999ff325c007#%F0%9F%87%BA%F0%9F%87%B8+United+States
 
 
-vless://1839b1fa-ce30-4f30-a646-90a1b5dd3c90@188.255.199.192:443?mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&pbk=tudfGv0tcsjCcMqi8fZoqHNAma-gjQj2XF8jsDmWpTk&host=01.img.avito.st&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=01.img.avito.st&sid=deadbeef#Fixed-xHTTP-Avito
 
 vless://4ce2f35e-95f4-4725-ae10-2f8f16130001@fin01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#%F0%9F%87%AB%F0%9F%87%AE+Finland+%7C
 
@@ -250,11 +248,9 @@ vless://177f207d-43b4-4f35-a80c-e68562e64634@ru-wt.anonch.org:443?security=reali
 
 vless://4ce2f35e-95f4-4725-ae10-2f8f16130001@hk01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+%7C+Li+Auto
 
-vless://4ce2f35e-95f4-4725-ae10-2f8f16130001@sg01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#%F0%9F%87%B8%F0%9F%87%AC+Singapore+%7C
 
  мои  vless://348224df-9fc0-4adf-93ff-b4f29f03878c@91.240.86.78:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&allowinsecure=0&type=xhttp&sni=test-35.ru#test-35-xhttp
 
- vless://1839b1fa-ce30-4f30-a646-90a1b5dd3c90@188.255.199.192:443?fp=chrome&type=xhttp&sni=01.img.avito.st&sid=deadbeef&mode=auto&path=%2Fapi%2Fv2%2Fupdates&security=reality&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A0.0%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22noSSEHeader%22%3Afalse%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30.0%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%2C%22scStreamUpServerSecs%22%3A%2230-90%22%7D&pbk=tudfGv0tcsjCcMqi8fZoqHNAma-gjQj2XF8jsDmWpTk&host=01.img.avito.st&spx=%2F&allowinsecure=0#Avito-Fixed-Host
 
 
 
